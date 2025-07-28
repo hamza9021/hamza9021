@@ -4,22 +4,6 @@
 
 Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript with hands-on experience building responsive web applications. I enjoy solving complex problems through structured practice on LeetCode. Experienced in developing client-server applications using Axios with a focus on clean, maintainable code.
 
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-<div align="center">
-  <a href="https://instagram.com/hamz.ariaz029">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/hamza-riaz-b094a9299">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hamza.riaz.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
 
 <h2 align="center">🚀 &nbsp;Tech Stack</h2>
 
@@ -62,3 +46,21 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
 </p>
 
 </div>
+
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+<div align="center">
+  <a href="https://instagram.com/hamz.ariaz029">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/hamza-riaz-b094a9299">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hamza.riaz.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
