@@ -35,7 +35,7 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="background-color:white; padding:2px; border-radius:5px;"/>
+  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" alt="express" width="60" height="60" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
 
 <h3 align="center">Databases</h3>
@@ -58,7 +58,7 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" width="60" height="60" style="background-color:white; padding:2px; border-radius:5px;"/>
+  <img src="https://devicon-website.vercel.app/api/socketio/original.svg?color=%23FFFFFF" width="60" height="60" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
 
 </div>
