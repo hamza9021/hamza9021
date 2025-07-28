@@ -48,8 +48,6 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
 </div>
 
 
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 <div align="center">
   <a href="https://instagram.com/hamz.ariaz029">
@@ -62,5 +60,3 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
----
