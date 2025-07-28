@@ -1,3 +1,5 @@
+<div style="background-color: white; color: #ccd6f6; padding: 2em; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Hamza+Riaz;Computer+Science+Student;Full-Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
 
 Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript with hands-on experience building responsive web applications. I enjoy solving complex problems through structured practice on LeetCode. Experienced in developing client-server applications using Axios with a focus on clean, maintainable code.
@@ -58,3 +60,5 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" width="60" height="60" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
+
+</div>
