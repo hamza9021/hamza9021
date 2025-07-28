@@ -33,7 +33,7 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45" style="filter: invert(1)"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
 
 <h3 align="center">Databases</h3>
@@ -56,28 +56,5 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" alt="socketio" width="45" height="45" style="filter: invert(1)"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" width="60" height="60" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamza9021&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza9021&theme=react&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza9021&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamza9021&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hamza9021&icon=0&color=0" />
-  <p>Thanks for visiting! Let's connect and build something amazing together.</p>
-</div>
