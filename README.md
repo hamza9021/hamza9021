@@ -27,6 +27,7 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/>
+  <img src="https://devicon-website.vercel.app/api/redux/original.svg"></img>
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
