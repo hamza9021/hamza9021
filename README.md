@@ -1,93 +1,128 @@
-<!-- Profile Header -->
-<div align="center">
+<div style="background: linear-gradient(135deg, #0f172a, #1e293b); color: #f8fafc; padding: 2.5em; border-radius: 16px; font-family: 'Inter', sans-serif; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
 
-# 👋 Hi, I'm **Hamza Riaz**  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+MERN+Developer;Problem+Solver;DevOps+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
-
+<!-- Animated Header -->
+<div style="text-align: center; margin-bottom: 2em;">
+  <h1 style="font-size: 2.5rem; margin-bottom: 0.5em; background: linear-gradient(90deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">Hamza Riaz</h1>
+  <div style="display: inline-block; font-size: 1.2rem; background: rgba(56, 189, 248, 0.2); padding: 0.5em 1em; border-radius: 50px; margin-bottom: 1em;">
+    <span style="color: #38bdf8;">👨‍💻 Computer Science Student</span>
+  </div>
+  <p style="max-width: 700px; margin: 0 auto; line-height: 1.6; color: #94a3b8;">
+    Full-Stack Developer specializing in modern JavaScript frameworks and Java ecosystems. 
+    Passionate about building scalable web applications with clean architecture and 
+    solving complex problems through structured algorithms.
+  </p>
 </div>
 
----
+<!-- Skills Grid -->
+<div style="background: rgba(30, 41, 59, 0.7); border-radius: 12px; padding: 2em; margin-bottom: 2em; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1);">
 
-## 💡 About Me  
+  <h2 style="text-align: center; margin-bottom: 1.5em; font-size: 1.8rem; color: #38bdf8; position: relative; display: inline-block; left: 50%; transform: translateX(-50%);">
+    <span style="background: rgba(56, 189, 248, 0.2); padding: 0.5em 1em; border-radius: 8px;">Technical Skills</span>
+  </h2>
 
-✨ Passionate **Computer Science student** with strong problem-solving skills and hands-on experience in **Full-Stack Development**.  
-🚀 Skilled in **Frontend (HTML, CSS, Tailwind, React, Redux, JS)** and **Backend (Node.js, Express, Java, GraphQL)**.  
-🛢️ Experienced with **Databases**: MongoDB, SQL Server, Redis.  
-☁️ Familiar with **DevOps & Cloud**: AWS, Docker, Kubernetes, Kafka, Nginx.  
-🛠️ Proficient with **Developer Tools**: Git, VS Code, IntelliJ, Socket.IO.  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1.5em;">
 
-I enjoy building scalable, maintainable applications and practicing **data structures & algorithms** through platforms like **LeetCode** to sharpen my problem-solving mindset.  
+    <!-- Frontend -->
+    <div style="background: rgba(15, 23, 42, 0.7); padding: 1em; border-radius: 8px; border-left: 4px solid #38bdf8;">
+      <h3 style="margin-top: 0; color: #38bdf8;">Frontend</h3>
+      <ul style="padding-left: 1.2em; color: #cbd5e1;">
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript (ES6+)</li>
+        <li>React.js</li>
+        <li>Redux</li>
+        <li>Tailwind CSS</li>
+      </ul>
+    </div>
 
----
+    <!-- Backend -->
+    <div style="background: rgba(15, 23, 42, 0.7); padding: 1em; border-radius: 8px; border-left: 4px solid #818cf8;">
+      <h3 style="margin-top: 0; color: #818cf8;">Backend</h3>
+      <ul style="padding-left: 1.2em; color: #cbd5e1;">
+        <li>Java</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>GraphQL</li>
+        <li>REST APIs</li>
+        <li>Axios</li>
+      </ul>
+    </div>
 
-## 🚀 Tech Stack  
+    <!-- Databases -->
+    <div style="background: rgba(15, 23, 42, 0.7); padding: 1em; border-radius: 8px; border-left: 4px solid #f472b6;">
+      <h3 style="margin-top: 0; color: #f472b6;">Databases</h3>
+      <ul style="padding-left: 1.2em; color: #cbd5e1;">
+        <li>MongoDB</li>
+        <li>SQL Server</li>
+        <li>Redis</li>
+        <li>Database Design</li>
+      </ul>
+    </div>
 
-### 🎨 Frontend  
-<p align="center">
-<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/redux/original.svg" width="45" height="45"/>
-</p>
+    <!-- DevOps -->
+    <div style="background: rgba(15, 23, 42, 0.7); padding: 1em; border-radius: 8px; border-left: 4px solid #34d399;">
+      <h3 style="margin-top: 0; color: #34d399;">DevOps & Cloud</h3>
+      <ul style="padding-left: 1.2em; color: #cbd5e1;">
+        <li>AWS</li>
+        <li>Kubernetes</li>
+        <li>Docker</li>
+        <li>NGINX</li>
+        <li>Apache Kafka</li>
+      </ul>
+    </div>
 
-### ⚙️ Backend  
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/graphql/plain.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/express/original.svg" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
-</p>
+    <!-- Tools -->
+    <div style="background: rgba(15, 23, 42, 0.7); padding: 1em; border-radius: 8px; border-left: 4px solid #fbbf24;">
+      <h3 style="margin-top: 0; color: #fbbf24;">Tools</h3>
+      <ul style="padding-left: 1.2em; color: #cbd5e1;">
+        <li>Git</li>
+        <li>VS Code</li>
+        <li>IntelliJ IDEA</li>
+        <li>Socket.io</li>
+        <li>Postman</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-### 🗄️ Databases  
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
-</p>
+<!-- Highlights Section -->
+<div style="display: flex; flex-wrap: wrap; gap: 1.5em; margin-bottom: 2em;">
+  <div style="flex: 1; min-width: 250px; background: rgba(56, 189, 248, 0.1); padding: 1.5em; border-radius: 12px; border: 1px solid rgba(56, 189, 248, 0.3);">
+    <h3 style="margin-top: 0; color: #38bdf8;">🧠 Problem Solving</h3>
+    <p style="color: #94a3b8;">
+      Regular practice on LeetCode with focus on data structures and algorithms to enhance problem-solving skills.
+    </p>
+  </div>
+  
+  <div style="flex: 1; min-width: 250px; background: rgba(248, 113, 113, 0.1); padding: 1.5em; border-radius: 12px; border: 1px solid rgba(248, 113, 113, 0.3);">
+    <h3 style="margin-top: 0; color: #f87171;">🚀 Full-Stack Projects</h3>
+    <p style="color: #94a3b8;">
+      Experience building end-to-end web applications with modern frameworks and clean architecture.
+    </p>
+  </div>
+  
+  <div style="flex: 1; min-width: 250px; background: rgba(74, 222, 128, 0.1); padding: 1.5em; border-radius: 12px; border: 1px solid rgba(74, 222, 128, 0.3);">
+    <h3 style="margin-top: 0; color: #4ade80;">🔧 Technical Skills</h3>
+    <p style="color: #94a3b8;">
+      Strong foundation in both frontend and backend technologies with focus on performance and scalability.
+    </p>
+  </div>
+</div>
 
-### ☁️ DevOps & Cloud  
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/>
-<img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/apachekafka/original.svg" width="45" height="45"/>
-</p>
+<!-- Connect Section -->
+<div style="text-align: center; background: rgba(30, 41, 59, 0.7); padding: 1.5em; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);">
+  <h2 style="margin-top: 0; color: #f8fafc; font-size: 1.5rem;">Let's Connect</h2>
+  <div style="display: flex; justify-content: center; gap: 1.5em; flex-wrap: wrap;">
+    <a href="https://linkedin.com/in/hamza-riaz-b094a9299" style="display: inline-flex; align-items: center; text-decoration: none; color: #f8fafc; background: rgba(10, 102, 194, 0.2); padding: 0.7em 1.5em; border-radius: 8px; transition: all 0.3s ease;">
+      <span style="margin-right: 8px;">🔗</span> LinkedIn
+    </a>
+    <a href="https://instagram.com/hamz.ariaz029" style="display: inline-flex; align-items: center; text-decoration: none; color: #f8fafc; background: rgba(225, 48, 108, 0.2); padding: 0.7em 1.5em; border-radius: 8px; transition: all 0.3s ease;">
+      <span style="margin-right: 8px;">📸</span> Instagram
+    </a>
+    <a href="mailto:hamza.riaz.tech@gmail.com" style="display: inline-flex; align-items: center; text-decoration: none; color: #f8fafc; background: rgba(219, 68, 55, 0.2); padding: 0.7em 1.5em; border-radius: 8px; transition: all 0.3s ease;">
+      <span style="margin-right: 8px;">✉️</span> Email
+    </a>
+  </div>
+</div>
 
-### 🛠️ Tools  
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/socketio/original.svg" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://instagram.com/hamz.ariaz029">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hamza-riaz-b094a9299">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href="mailto:hamza.riaz.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza9021&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza9021&theme=tokyonight" height="160"/>
-</p>
-
----
+</div>
