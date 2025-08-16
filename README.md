@@ -9,8 +9,9 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+ <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="45" height="45"></img>
+
+ <img src="https://devicon-website.vercel.app/api/css3/original.svg"  width="45" height="45"></img>
   <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg?color=%23FFFFFF" width="45" height="45"></img>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -36,7 +37,7 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+  <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="45" height="45"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23FFFFFF" width="45" height="45"/></img>
