@@ -1,68 +1,93 @@
-<div style="background-color: white; color: #ccd6f6; padding: 2em; border-radius: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<!-- Profile Header -->
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Hamza+Riaz;Computer+Science+Student;Full-Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
+# 👋 Hi, I'm **Hamza Riaz**  
 
-Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript with hands-on experience building responsive web applications. I enjoy solving complex problems through structured practice on LeetCode. Experienced in developing client-server applications using Axios with a focus on clean, maintainable code.
-
-
-<h2 align="center">🚀 &nbsp;Tech Stack</h2>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
- <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="45" height="45"></img>
-
- <img src="https://devicon-website.vercel.app/api/css3/original.svg"  width="45" height="45"></img>
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg?color=%23FFFFFF" width="45" height="45"></img>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://devicon-website.vercel.app/api/redux/original.svg" alt="react" width="45" height="45"></img>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://devicon-website.vercel.app/api/graphql/plain.svg"width="45" height="45"></img>
-  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" alt="express" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
-</p>
-
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/>
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="45" height="45"></img>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23FFFFFF" width="45" height="45"/></img>
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://devicon-website.vercel.app/api/socketio/original.svg?color=%23FFFFFF" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+MERN+Developer;Problem+Solver;DevOps+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
+---
 
-<h2 align="center">🌐 Connect With Me</h2>
-<div align="center">
+## 💡 About Me  
+
+✨ Passionate **Computer Science student** with strong problem-solving skills and hands-on experience in **Full-Stack Development**.  
+🚀 Skilled in **Frontend (HTML, CSS, Tailwind, React, Redux, JS)** and **Backend (Node.js, Express, Java, GraphQL)**.  
+🛢️ Experienced with **Databases**: MongoDB, SQL Server, Redis.  
+☁️ Familiar with **DevOps & Cloud**: AWS, Docker, Kubernetes, Kafka, Nginx.  
+🛠️ Proficient with **Developer Tools**: Git, VS Code, IntelliJ, Socket.IO.  
+
+I enjoy building scalable, maintainable applications and practicing **data structures & algorithms** through platforms like **LeetCode** to sharpen my problem-solving mindset.  
+
+---
+
+## 🚀 Tech Stack  
+
+### 🎨 Frontend  
+<p align="center">
+<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/redux/original.svg" width="45" height="45"/>
+</p>
+
+### ⚙️ Backend  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/graphql/plain.svg" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/express/original.svg" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
+</p>
+
+### ☁️ DevOps & Cloud  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/>
+<img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/apachekafka/original.svg" width="45" height="45"/>
+</p>
+
+### 🛠️ Tools  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://devicon-website.vercel.app/api/socketio/original.svg" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
   <a href="https://instagram.com/hamz.ariaz029">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/hamza-riaz-b094a9299">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/>
   </a>
   <a href="mailto:hamza.riaz.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza9021&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza9021&theme=tokyonight" height="160"/>
+</p>
+
+---
