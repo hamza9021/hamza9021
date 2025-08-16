@@ -22,6 +22,7 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://devicon-website.vercel.app/api/graphql/plain.svg"width="45" height="45"></img>
   <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" alt="express" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
 
@@ -38,6 +39,7 @@ Passionate Computer Science student skilled in Java, HTML, CSS, and JavaScript w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23FFFFFF" width="45" height="45"/></img>
 </p>
 
 <h3 align="center">Tools</h3>
