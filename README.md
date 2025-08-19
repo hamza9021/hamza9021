@@ -17,9 +17,9 @@
 
 I enjoy building scalable, maintainable applications and practicing **data structures & algorithms** through platforms like **LeetCode** to sharpen my problem-solving mindset.  
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
-### 🎨 Frontend  
+### Frontend  
 <p align="center">
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="45" height="45" title="HTML5"/>
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="45" height="45" title="CSS3"/>
@@ -29,7 +29,7 @@ I enjoy building scalable, maintainable applications and practicing **data struc
   <img src="https://devicon-website.vercel.app/api/redux/original.svg" width="45" height="45" title="Redux"/>
 </p>
 
-### ⚙️ Backend  
+### Backend  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
@@ -37,14 +37,14 @@ I enjoy building scalable, maintainable applications and practicing **data struc
   <img src="https://devicon-website.vercel.app/api/express/original.svg" width="45" height="45" title="Express" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
 
-### 🗄️ Databases  
+### Databases  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" title="Redis"/>
 </p>
 
-### ☁️ DevOps & Cloud  
+### DevOps & Cloud  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" title="AWS"/>
   <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="45" height="45" title="Kubernetes"/>
@@ -53,7 +53,7 @@ I enjoy building scalable, maintainable applications and practicing **data struc
   <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg" width="45" height="45" title="Kafka"/>
 </p>
 
-### 🛠️ Tools  
+### Tools  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" title="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
@@ -73,11 +73,4 @@ I enjoy building scalable, maintainable applications and practicing **data struc
   <a href="mailto:hamza.riaz.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza9021&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza9021&theme=tokyonight" height="160"/>
 </p>
