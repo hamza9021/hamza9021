@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ## 💡 About Me  
 
 ✨ Passionate **Computer Science student** with strong problem-solving skills and hands-on experience in **Full-Stack Development**.  
@@ -19,53 +17,49 @@
 
 I enjoy building scalable, maintainable applications and practicing **data structures & algorithms** through platforms like **LeetCode** to sharpen my problem-solving mindset.  
 
----
-
 ## 🚀 Tech Stack  
 
 ### 🎨 Frontend  
 <p align="center">
-<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/redux/original.svg" width="45" height="45"/>
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="45" height="45" title="HTML5"/>
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="45" height="45" title="CSS3"/>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="45" height="45" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
+  <img src="https://devicon-website.vercel.app/api/redux/original.svg" width="45" height="45" title="Redux"/>
 </p>
 
 ### ⚙️ Backend  
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/graphql/plain.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/express/original.svg" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
+  <img src="https://devicon-website.vercel.app/api/graphql/plain.svg" width="45" height="45" title="GraphQL"/>
+  <img src="https://devicon-website.vercel.app/api/express/original.svg" width="45" height="45" title="Express" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" title="Redis"/>
 </p>
 
 ### ☁️ DevOps & Cloud  
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/>
-<img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/apachekafka/original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" title="AWS"/>
+  <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="45" height="45" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
+  <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg" width="45" height="45" title="Kafka"/>
 </p>
 
 ### 🛠️ Tools  
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://devicon-website.vercel.app/api/socketio/original.svg" width="45" height="45" style="background-color:white; padding:2px; border-radius:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" title="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
+  <img src="https://devicon-website.vercel.app/api/socketio/original.svg" width="45" height="45" title="Socket.IO" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
-
----
 
 ## 🌐 Connect With Me  
 
@@ -81,13 +75,9 @@ I enjoy building scalable, maintainable applications and practicing **data struc
   </a>
 </p>
 
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza9021&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza9021&theme=tokyonight" height="160"/>
 </p>
-
----
