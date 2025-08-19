@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <div align="center">
 
 # 👋 Hi, I'm **Hamza Riaz**  
@@ -7,15 +6,21 @@
 
 </div>
 
-## 💡 About Me  
+## 💼 Professional Summary
 
-✨ Passionate **Computer Science student** with strong problem-solving skills and hands-on experience in **Full-Stack Development**.  
-🚀 Skilled in **Frontend (HTML, CSS, Tailwind, React, Redux, JS)** and **Backend (Node.js, Express, Java, GraphQL)**.  
-🛢️ Experienced with **Databases**: MongoDB, SQL Server, Redis.  
-☁️ Familiar with **DevOps & Cloud**: AWS, Docker, Kubernetes, Kafka, Nginx.  
-🛠️ Proficient with **Developer Tools**: Git, VS Code, IntelliJ, Socket.IO.  
+A dedicated **Computer Science student** with demonstrated expertise in full-stack development and robust problem-solving capabilities. Combines strong technical knowledge with practical experience in building scalable, maintainable applications across the development stack.
 
-I enjoy building scalable, maintainable applications and practicing **data structures & algorithms** through platforms like **LeetCode** to sharpen my problem-solving mindset.  
+## 🔧 Technical Expertise
+
+- **Frontend Development**: HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React, Redux
+- **Backend Development**: Node.js, Express.js, Java, GraphQL, REST APIs
+- **Database Management**: MongoDB, SQL Server, Redis, data modeling, optimization
+- **DevOps & Cloud Technologies**: AWS, Docker, Kubernetes, Apache Kafka, Nginx
+- **Development Tools**: Git, VS Code, IntelliJ IDEA, Socket.IO, npm/yarn
+
+## 🎯 Professional Focus
+
+Passionate about engineering efficient, scalable solutions and continuously enhancing technical skills through systematic practice of data structures and algorithms on platforms like LeetCode. Committed to writing clean, maintainable code and following industry best practices throughout the development lifecycle.
 
 ## Tech Stack  
 
